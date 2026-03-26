@@ -1,0 +1,32 @@
+Year,Month,Day,Time,T [K],RHw [%],RHi [%],IN [L-1],Instrument,Reference [author  year],DOI,Campaign,Platform,Lat,Lon,Alt [m],Location
+2015,3.0,6.0,10:22:00,243.15,93.0,124.0,2.5,HINC,Ansmann et al  (2019),https://doi.org/10.5194/acp-19-15087-2019,,Ground,35.04,33.06,530.0,Cyprus
+2014,8.0,1.0,5:42:00,240.15,104.9,144.6,27.55,PINC,Boose et al  (2016),10.5194/acp-16-9067-2016,CALIMA,Ground,28.31,-16.5,2373.0,Tenerife
+2013,2.0,1.0,10:50:00,241.0,93.0,127.0,0.37,PINC,Boose et al  (2016); JAS,10.1175/JAS-D-15-0236.1,,Ground,46.55,7.99,3580.0,Jungfraujoch
+1956,6.0,14.0,,242.0,100.0,135.0,10000.0,30L cold chamber,Rau1959,"Meteorologische Rundschau, 12.Jg.. Heft 3, Mai/Juni 1959, p.p. 65-73",,Ground,47.8,9.6,460.0,Weissenau Germany
+2016,4.0,26.0,10:36:00,247.55,100.0,128.7,17.98,FRIDGE Filter Droplet Freezing,Weber 2019,https://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/year/2019/docId/50829,INUIT-BACCHUS-Cyprus,Ground,35.04,33.06,532.0,Cyprus
+2001,11.0,9.0,1:14:30,222.56,93.3,152.6,5.49,CFDC,DeMott2003b,10.1073/pnas.2532677100,,Ground,40.5,-106.7,3200.0,Mt. Werner Colorado
+2001,11.0,9.0,10:12:16,221.43,96.8,160.0,4501.82,CFDC,DeMott2003b,10.1073/pnas.2532677100,,Ground,40.5,-106.7,3200.0,Mt. Werner Colorado
+2001,11.0,9.0,17:20:32,240.51,109.5,151.0,153.04,CFDC,DeMott2003b,10.1073/pnas.2532677100,,Ground,40.5,-106.7,3200.0,Mt. Werner Colorado
+2001,11.0,10.0,9:02:56,223.47,93.6,151.9,0.1,CFDC,DeMott2003b,10.1073/pnas.2532677100,,Ground,40.5,-106.7,3200.0,Mt. Werner Colorado
+2001,11.0,11.0,21:02:17,226.68,99.3,156.3,1.72,CFDC,DeMott2003b,10.1073/pnas.2532677100,,Ground,40.5,-106.7,3200.0,Mt. Werner Colorado
+2001,11.0,12.0,22:10:55,230.04,87.2,133.0,0.1,CFDC,DeMott2003b,10.1073/pnas.2532677100,,Ground,40.5,-106.7,3200.0,Mt. Werner Colorado
+2001,11.0,13.0,15:02:54,241.59,112.1,153.0,108.45,CFDC,DeMott2003b,10.1073/pnas.2532677100,,Ground,40.5,-106.7,3200.0,Mt. Werner Colorado
+2001,11.0,14.0,19:39:21,227.66,96.9,151.2,2.88,CFDC,DeMott2003b,10.1073/pnas.2532677100,,Ground,40.5,-106.7,3200.0,Mt. Werner Colorado
+2004,10.0,18.0,20:58:57,255.05,102.9,123.0,0.0,CSU-CFDC,[Verlinde2007] [Fridlind2007] [Prenni2007b] [Prenni2009b],[10.1175/BAMS-88-2-205] [10.1029/2007JD008646] [10.1175/BAMS-88-4-541] [10.1111/j.1600-0889.2009.00415.x],M-PACE,Air,71.19,-156.36,3911.228343,North Slope of Alaska
+2004,10.0,6.0,21:20:02,263.95,99.8,109.3,0.0,CSU-CFDC,[Verlinde2007] [Fridlind2007] [Prenni2007b] [Prenni2009b],[10.1175/BAMS-88-2-205] [10.1029/2007JD008646] [10.1175/BAMS-88-4-541] [10.1111/j.1600-0889.2009.00415.x],M-PACE,Air,71.19,-156.36,2556.986509,North Slope of Alaska
+2004,10.0,5.0,19:43:00,267.65,97.0,102.4,0.0,CSU-CFDC,[Verlinde2007] [Fridlind2007] [Prenni2007b] [Prenni2009b],[10.1175/BAMS-88-2-205] [10.1029/2007JD008646] [10.1175/BAMS-88-4-541] [10.1111/j.1600-0889.2009.00415.x],M-PACE,Air,71.19,-156.36,934.9982692,North Slope of Alaska
+2004,10.0,8.0,20:29:00,262.75,100.6,111.4,0.0,CSU-CFDC,[Verlinde2007] [Fridlind2007] [Prenni2007b] [Prenni2009b],[10.1175/BAMS-88-2-205] [10.1029/2007JD008646] [10.1175/BAMS-88-4-541] [10.1111/j.1600-0889.2009.00415.x],M-PACE,Air,71.19,-156.36,1060.556555,North Slope of Alaska
+2004,10.0,22.0,0:02:25,250.55,102.0,127.4,0.0,CSU-CFDC,[Verlinde2007] [Fridlind2007] [Prenni2007b] [Prenni2009b],[10.1175/BAMS-88-2-205] [10.1029/2007JD008646] [10.1175/BAMS-88-4-541] [10.1111/j.1600-0889.2009.00415.x],M-PACE,Air,71.19,-156.36,3646.901673,North Slope of Alaska
+2004,10.0,10.0,22:59:43,258.75,99.2,114.3,0.0108,CSU-CFDC,[Verlinde2007] [Fridlind2007] [Prenni2007b] [Prenni2009b],[10.1175/BAMS-88-2-205] [10.1029/2007JD008646] [10.1175/BAMS-88-4-541] [10.1111/j.1600-0889.2009.00415.x],M-PACE,Air,71.19,-156.36,745.5456552,North Slope of Alaska
+2007,11.0,29.0,21:48:14,252.04,103.9,127.89,1.1,CSU-CFDC,Durkee and DeMott 2011,doi:10.5065/D6GF0RTM,ICE-L,Air,41.0,-106.0,2880.82,Wyoming and Colorado
+2007,11.0,16.0,22:46:32,242.74,103.36,139.44,3.2,CSU-CFDC,Durkee and DeMott 2011,doi:10.5065/D6GF0RTM,ICE-L,Air,41.0,-106.0,4152.82,Wyoming and Colorado
+2009,6.0,,,257.15,96.25,112.5,0.140157281,TGDC-Patade2014,Patade et al. 2014,http://dx.doi.org/10.1016/j.atmosres.2014.07.001,CAIPEEX,Air,26.18,81.2,3782.741504,Bareilly
+2016,4.0,25.0,,261.22,100.0,112.32,0.00138,INDA,Wex et al. 2019,https://doi.org/10.1594/PANGAEA.899701,Arctic Amplification (AC3),Ground,82.5,-62.33333,200.0,Alert (Canadian Arctic Station)
+2013,5.0,17.0,,257.96,100.0,115.96,0.006241,INDA,Wex et al. 2019,https://doi.org/10.1594/PANGAEA.899701,Arctic Amplification (AC3),Ground,71.3,-156.6,11.0,Barrow_Utqiagvik (Alaska)
+2012,4.0,22.0,,249.24,100.0,126.29,0.16212,INDA,Welti et al  (2020),https://doi.org/10.5194/acp-20-15191-2020,PS79,Ship,-18.94,-33.9,10.0,Atlantic
+2017,3.0,26.0,,264.15,100.0,109.15,0.001002326,cold-stage-based immersion freezing CRAFT - Tobo2016,Tobo et al. 2020,https://doi.org/10.1029/2020JD033658,,Ground,35.71,139.81,458.0,Tokyo Skytree (Sumida_Tokyo_Japan)
+1989,8.0,24.0,12:00:00,258.1330853,100.5,116.34,0.790172929,Dynamic filter processing chamber - DFPC (Langer and Rodgers 1975),Rosinski1991c,"Acta Meteorologica Sinica (1991), vol. 5, no. 4, pp. 497-513.",,Ground,46.0,13.4,96.0,Gorizia in Fruili-Venezia Giulia Italy
+1960,2.0,,,253.32,100.0,121.4,1.38,Expansion-type cloud chambers (Warner 1957),Kline 1963,https://doi.org/10.1175/1520-0493(1963)091<0681:EOGDII>2.3.CO;2,,Ground,38.9,-77.04,7.0,Washington D.C  USA
+2020,3.0,4.0,,253.65,100.0,120.96,0.0056,CSU-IS,Hill et al 2020c,https://doi.org/10.5439/1798162,MOSAiC,Ship,88.082985,28.68013,15.0,central Arctic
+2017,9.0,29.0,,257.15,100.0,116.88,0.016895842,INDA,Gong et al. 2020,https://doi.org/10.5194/acp-20-1451-2020,MarParCloud ,Ground,16.86361,-24.86722,42.0,Cabo Verde
+1983,12.0,,,262.79,100.0,110.381452712437,1.85,Nuclepore filter ,Saxena and Weintraub  1988,https://doi.org/10.1007/3-540-50108-8_1183,,Ground,-64.77,-64.05,5.0,Antarctica
