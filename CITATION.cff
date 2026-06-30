@@ -1,15 +1,16 @@
 cff-version: 1.2.0
-title: "Ice-nucleating particle (INP) database (INPDB) 1949-2020 post processing notebook"
-version: 1.0.1
+title: "Ambient ice-nucleating particle (AINP) database 1944-2020 post processing notebook"
+version: 1.0.2
 license: "GPL-3.0"
 type: software
-abstract: "This Jupyter notebook includes functions for INPDB I/O, post-processing (mapping functions e.g. season, lat band, hemisphere, online/offline instrument) and visualization (e.g., global INP map). This work has received funding from the Swiss State Secretariat for Education, Research and Innovation (SERI) for the Horizon Europe programme under Grant Agreement No 101137680 via project CERTAINTY (Cloud-aERosol inTeractions & their impActs IN The earth sYstem)."
+abstract: "This Jupyter notebook includes functions for AINP database I/O, post-processing (mapping functions e.g. season, lat band, hemisphere, online/offline instrument) and visualization (e.g., global INP map). This work has received funding from the Swiss State Secretariat for Education, Research and Innovation (SERI) for the Horizon Europe programme under Grant Agreement No 101137680 via project CERTAINTY (Cloud-aERosol inTeractions & their impActs IN The earth sYstem)."
 authors: 
   - given-names: Cuiqi
     family-names: Zhang
     affiliation: ETH Zurich
     orcid: "https://orcid.org/0000-0002-2354-4188"
 keywords:
-  - Ice Nucleating Particles
+  - Ice-Nucleating Particles
   - Number concentration
   - Global INP database
+  - Ambient
