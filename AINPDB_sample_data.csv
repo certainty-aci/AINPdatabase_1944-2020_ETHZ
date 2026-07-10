@@ -1,4 +1,4 @@
-Year,Month,Day,Time,T [K],RHw [%],RHi [%],IN [L-1],Instrument,Reference [author  year],DOI,Campaign,Platform,Lat,Lon,Alt [m],Location
+Year,Month,Day,Time,T [K],RHw [%],RHi [%],INP_amb [L-1],Instrument,Reference [author  year],DOI,Campaign,Platform,Lat,Lon,Alt [m],Location
 2015,3.0,6.0,10:22:00,243.15,93.0,124.0,2.5,HINC,Ansmann et al  (2019),https://doi.org/10.5194/acp-19-15087-2019,,Ground,35.04,33.06,530.0,Cyprus
 2014,8.0,1.0,5:42:00,240.15,104.9,144.6,27.55,PINC,Boose et al  (2016),10.5194/acp-16-9067-2016,CALIMA,Ground,28.31,-16.5,2373.0,Tenerife
 2013,2.0,1.0,10:50:00,241.0,93.0,127.0,0.37,PINC,Boose et al  (2016); JAS,10.1175/JAS-D-15-0236.1,,Ground,46.55,7.99,3580.0,Jungfraujoch
